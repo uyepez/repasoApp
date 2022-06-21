@@ -1,0 +1,6 @@
+{
+	"appId": "com.nestor.course",
+	"appName": "repasoApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

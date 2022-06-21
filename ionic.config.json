@@ -1,0 +1,7 @@
+{
+  "name": "repasoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
